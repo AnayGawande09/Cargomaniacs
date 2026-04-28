@@ -4,7 +4,7 @@ The autonomous tracking loop has been completed successfully.
 
 - The application consists of a Node.js backend simulating vehicle movement and telemetry over WebSockets.
 - A Next.js frontend uses React-Leaflet to visualize the track and Recharts to map telemetry.
-- Weather and Route APIs are mocked to bypass API key requirements, simulating travel from Los Angeles to San Francisco.
+- Weather and Route APIs are mocked to bypass API key requirements, simulating travel from Mumbai to Delhi.
 
 ## Running the Application Locally
 
